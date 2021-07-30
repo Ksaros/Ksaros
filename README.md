@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Ksaros (Kacper in real life 😁);
+- 👋 Hi, I'm Kacper (Ksaros in virtual life 😁);
 - 👀 I am interested in backend development, mainly PHP;
 - 🌱 I am currently learning react with php and C languages (in college);
 - 💞️ I want to collaborate on projects that will expand my knowledge;
